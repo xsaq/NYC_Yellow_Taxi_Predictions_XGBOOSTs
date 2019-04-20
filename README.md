@@ -5,4 +5,4 @@
 
 В работе строится улучшенная модель, использующая модели XGBOOST.
 
-Содержание [ноутбука](https://github.com/xsaq/NYC_Yellow_Taxi_Predictions_ARIMAs/blob/master/ARIMAs.ipynb) представлено в целостном завершенном виде, однако при этом в работе используются некоторые заранее подготовленные файлы.
+Содержание [ноутбука](https://github.com/xsaq/NYC_Yellow_Taxi_Predictions_XGBOOSTs/blob/master/BigSetRegression.ipynb) представлено в целостном завершенном виде, однако при этом в работе используются некоторые заранее подготовленные файлы.
